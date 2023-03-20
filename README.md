@@ -25,7 +25,7 @@ The frame (km-frame1.stl) keeps the displays as horizontal as possible.
 
 
 
-All modules are mounted on sockets - "plug-in", easy if I need to replace any of them. Displays are mounted on double height sockets. RJ45's are placed upside-down to keep the assembly as low as possible. They have extra mechanical support by help of cable strips.
+All modules are mounted on sockets - "plug-in", easy if I need to replace any of them. Displays are mounted on double height sockets. They have some distance, allowing 1.3" display replacement. RJ45's are placed upside-down to keep the assembly as low as possible. They have extra mechanical support by help of cable strips.
 ![P1010696](https://user-images.githubusercontent.com/52971840/226324180-2664fd24-5f86-4c69-826f-6e283174efda.JPG)
 
 
